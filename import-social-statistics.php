@@ -15,7 +15,7 @@
  * Plugin Name:       Import Social Statistics
  * Plugin URI:        http://www.easantos.net/wordpress/import-social-statistics/
  * Description:       Import your number of Likes and Shares into your WordPress post list.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Easantos
  * Author URI:        http://www.easantos.net
  * License:           GPL-2.0+
